@@ -28,7 +28,7 @@
     "slimbot": "^4.4.0",
     "socks5-client": "^1.2.8",
     "pngjs": "^3.4.0",
-    "ws": "^7.1.2"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "pkg": "4.4.0"
